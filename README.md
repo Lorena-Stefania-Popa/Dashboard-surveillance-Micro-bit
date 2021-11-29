@@ -2,7 +2,7 @@
 Python with Ubidots
 
 I created an account on Ubidots, after I entered a Linux, more precisely on DEBIAN where I gave a "sudo apt-get install screen". Then because I didn't have any pip3 or python 
-on this virtual machine, I installed the commands on this site: "https://linuxize.com/post/how-to-install-python-3-9-on-debian -10 / "to work + I gave another sudo apt-get -y 
+on this virtual machine, I installed the commands on this site: "https://linuxize.com/post/how-to-install-python-3-9-on-debian-10/" to work + I gave another sudo apt-get -y 
 install python3-pip. I looked at the documentation and took the code from "Send multiple dots" and added it to start.py.
 I looked and understood that I call the main code of the payload of variables 1 and 2, a url, a device and so on in post_var because it is of JSON type, it practically recognizes
 what I call from main.
